@@ -29,7 +29,7 @@
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.0",
     "dataloader": "^2.2.2",
-    "dryerjs": "file:dryerjs-80778a0a3b688aa1d0ca6a5494826b5ca1427409.tgz",
+    "dryerjs": "file:dryerjs-46c8583bd2b87f2d4ddf8fe2f198d78ada14397a.tgz",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1"
   },
